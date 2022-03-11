@@ -12,3 +12,6 @@ val nodeId = NodeId(ECPublicKey("034f355bdcb7cc0af728ef3cceb9615d90684bb5b2ca5f8
 
 val millsats100 = MilliSatoshis(BigInt(100))
 // millsats100: MilliSatoshis = 100 msats
+
+val database = databaseAPI
+// database1: OneMilliSatoshis = 1000000
